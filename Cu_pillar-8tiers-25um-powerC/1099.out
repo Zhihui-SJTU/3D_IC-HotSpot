@@ -1,0 +1,106 @@
+Unit	Steady(Kelvin)
+layer_0_Substrate	466.58
+layer_1_C4Layer	466.61
+layer_2_BEOL	466.61
+layer_3_Die	466.61
+layer_4_Inter-die	466.61
+layer_5_BEOL	466.66
+layer_6_Die	466.66
+layer_7_Inter-die	466.67
+layer_8_BEOL	466.77
+layer_9_Die	466.77
+layer_10_Inter-die	466.77
+layer_11_BEOL	466.92
+layer_12_Chiplet_0	466.92
+layer_13_Inter-die	466.01
+layer_14_BEOL	437.38
+layer_15_Die	437.35
+layer_16_Inter-die	436.43
+layer_17_BEOL	407.86
+layer_18_Die	407.83
+layer_19_Inter-die	406.92
+layer_20_BEOL	378.41
+layer_21_Die	378.38
+layer_22_Inter-die	377.47
+layer_23_BEOL	349.02
+layer_24_Die	348.99
+hsp_Die	347.16
+hsink_Die	343.18
+inode_0	324.02
+inode_1	324.02
+inode_2	324.02
+inode_3	324.02
+inode_4	324.01
+inode_5	324.01
+inode_6	324.01
+inode_7	324.01
+inode_8	319.46
+inode_9	319.46
+inode_10	319.46
+inode_11	319.46
+Time=532.514901638031
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Error: Unable to convert string to float.
+Peak_Temperature=466.58

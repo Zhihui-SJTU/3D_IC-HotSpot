@@ -1,0 +1,13 @@
+# Floorplan for Power-Die Layer
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>\t[<specific-heat>]\t[<resistivity>]
+# all dimensions are in meters
+# comment lines begin with a '#' 
+# comments and empty lines are ignored
+
+Edge_0	0.011	0.0005	0.0005	0
+Edge_1	0.011	0.0005	0.0005	0.0115
+Edge_2	0.0005	0.012	0	0
+Edge_3	0.0005	0.012	0.0115	0
+Chiplet_0 0.0015 0.0015 0.0005 0.0005
+Edge_4	0.0095	0.011	0.0020	0.0005
+Edge_5	0.0015	0.0095	0.0005	0.0020

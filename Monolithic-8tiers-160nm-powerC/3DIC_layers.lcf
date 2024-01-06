@@ -1,0 +1,241 @@
+# File Format:
+#<Layer Number>
+#<Lateral heat flow Y/N?>
+#<Power Dissipation Y/N?>
+#<Specific heat capacity in J/(m^3K)>
+#<Resistivity in (m-K)/W>
+#<Thickness in m>
+#<floorplan file>
+
+# Layer 0: substrate
+0
+Y
+N
+1.06E+06
+3.33
+0.000288
+./Substrate.flp
+
+# Layer 1: Epoxy SiO2 underfill with C4 copper pillar(underfill with C4-bumps)
+1
+Y
+N
+2.32E+06
+0.625
+4E-05
+./C4Layer.flp
+
+# Tier 1
+# Layer 2: BEOL
+2
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 3: Die
+3
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die.flp
+
+# Layer 4: Inter-die layer
+4
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 2
+# Layer 5: BEOL
+5
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 6: Die
+6
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die1.flp
+
+# Layer 7: Inter-die layer
+7
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 3
+# Layer 8: BEOL
+8
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 9: Die
+9
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die2.flp
+
+# Layer 10: Inter-die layer
+10
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 4
+# Layer 11: BEOL
+11
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 12: Die
+12
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die3.flp
+
+# Layer 13: Inter-die layer
+13
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 5
+# Layer 14: BEOL
+14
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 15: Die
+15
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die4.flp
+
+# Layer 16: Inter-die layer
+16
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 6
+# Layer 17: BEOL
+17
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 18: Die
+18
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die5.flp
+
+# Layer 19: Inter-die layer
+19
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 7
+# Layer 20: BEOL
+20
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 21: Die
+21
+Y
+Y
+1.54E+06
+0.1316
+0.16E-06
+./Power-Die6.flp
+
+# Layer 22: Inter-die layer
+22
+Y
+N
+1.54E+06
+0.1316
+0.06E-06
+./Inter-die.flp
+
+# Tier 8
+# Layer 23: BEOL
+23
+Y
+N
+1.54E+06
+0.1316
+1.72E-06
+./BEOL.flp
+
+# Layer 24: Top-Die
+24
+Y
+Y
+1.54E+06
+0.1316
+3E-05
+./Power-Die7.flp

@@ -1,0 +1,7 @@
+# Floorplan for BEOL Layer with size 0.012x0.012 m
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>\t[<specific-heat>]\t[<resistivity>]
+# all dimensions are in meters
+# comment lines begin with a '#' 
+# comments and empty lines are ignored
+
+BEOL	0.017	0.017	0.0	0.0

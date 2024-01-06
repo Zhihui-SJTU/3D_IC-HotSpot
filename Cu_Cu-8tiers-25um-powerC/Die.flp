@@ -1,0 +1,7 @@
+# Floorplan for Die Layer
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>\t[<specific-heat>]\t[<resistivity>]
+# all dimensions are in meters
+# comment lines begin with a '#' 
+# comments and empty lines are ignored
+
+Die	0.0085	0.0085	0.0	0.0
